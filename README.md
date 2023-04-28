@@ -7,7 +7,7 @@
 - 🏦 Atualmente, atuo como Analista de Qualidade, realizando testes funcionais e automatizados;
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 Estudo sobre ```C#``` e o framework ```.Net``` com o intuito de me tornar um desenvolvedor ```backend```;
-- 💬 Gosto de falar de tecnologia, UX, videografia e games;
+- 💬 Gosto de falar de tecnologia, UX, videografia e games.
 
 
 ### 🐱 Github stats:
