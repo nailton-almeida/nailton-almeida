@@ -19,5 +19,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/nailton-almeida//"><img src="https://img.shields.io/badge/-Nailton%20Almeida-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nailtonalmeidajr@gmail.com"><img src="https://img.shields.io/badge/-nailtonalmeidajr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nailton.raw//"><img src="https://img.shields.io/badge/-@nailton.raw_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/nailton.raw/"><img src="https://img.shields.io/badge/-@nailton.raw_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
