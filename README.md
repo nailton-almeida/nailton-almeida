@@ -12,7 +12,7 @@
 
 ### 🐱 Github stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nailton-almeida/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailton-almeida&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nailton-almeida/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Meus Contatos
 
