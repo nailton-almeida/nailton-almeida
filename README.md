@@ -1,6 +1,6 @@
 <div align="center" width="50">
    </div>
-<h1 align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Eu sou o Nailton Almeida </h1>
+<h1 align="center">Olá! Eu sou o Nailton Almeida </h1>
 
 ### 🤵 Sobre mim:
 - 👨‍🎓 Sou Analista de Sistemas, Especialista em Testes de Software e Mestre em Ciência da Computação;
