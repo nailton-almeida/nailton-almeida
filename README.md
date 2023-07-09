@@ -7,7 +7,7 @@
 - 🏦 Atualmente, atuo como Analista de Qualidade, realizando testes funcionais e automatizados;
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 Venho me especializando em ```C#``` e ```.Net``` para atuação com desenvolvimento, principalmente ```backend```;
-- 💬 Possuo habilidades com C#, .Net, Git, Azure, HTML, CSS, POO, Docker, RESTFull, SQL, Linux, AWS, Scrum, Kanban, Levantamento de Requisitos, Entrevista com Usuário e UX Design.
+- 💬 Possuo habilidades com ```C#```, ```.Net```, ```Git```, ```Azure```, ```HTML```, ```CSS```, ```POO```, ```Docker```, ```RESTFull```, ```SQL```, ```Linux```, ```AWS```, ```Scrum```, ```Kanban```, ```Levantamento de Requisitos```, ```Entrevista com Usuário``` e ```UX Design```.
 
 ### 🐱 Github stats:
 
