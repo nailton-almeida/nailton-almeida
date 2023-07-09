@@ -6,9 +6,8 @@
 - 👨‍🎓 Sou Analista de Sistemas, Especialista em Testes de Software e Mestre em Ciência da Computação;
 - 🏦 Atualmente, atuo como Analista de Qualidade, realizando testes funcionais e automatizados;
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 Estudo sobre ```C#``` e ```.Net``` com o intuito de me tornar um desenvolvedor ```backend```;
-- 💬 Gosto de falar de tecnologia, UX, videografia e games.
-
+- 🌱 Venho me especializando em ```C#``` e ```.Net``` para atuação com desenvolvimento, principalmente ```backend```;
+- 💬 Possuo habilidades com C#, .Net, Git, Azure, HTML, CSS, POO, Docker, RESTFull, SQL, Linux, AWS, Scrum, Kanban, Levantamento de Requisitos, Entrevista com Usuário e UX Design.
 
 ### 🐱 Github stats:
 
