@@ -8,7 +8,7 @@
   * Especialista em Testes de Software pela Universidade Positivo.
   * Mestre em Ciência da Computação pela Universidade Estadual de Feira de Santana.
   1. Durante a realização do mestrado, publiquei um artigo sobre testes de software no ```Congresso Brasileiro de Software (CBSoft) 2021```. [Pesquisa disponível para leitura aqui](https://github.com/nailton-almeida/nailton-almeida/blob/0cde2895cbf234be0aec8d381492a138c319b3c5/Experiences%20and%20Practices%20in%20GUI%20Functional%20Testing%20A%20Software%20Practitioners%E2%80%99%20View.pdf).
-  2. Minha pesquisa de dissertação abordou como os testes funcionais de GUI são produzidos na industrial brasileira de software. [Pesquisa disponível para leitura aqui ](https://github.com/nailton-almeida/nailton-almeida/blob/0cde2895cbf234be0aec8d381492a138c319b3c5/Um%20estudo%20sobre%20as%20pr%C3%A1ticas%20de%20testes%20funcionais%20de%20GUI%20na%20ind%C3%BAstria%20brasileira%20de%20software.pdf).
+  2. Minha pesquisa de dissertação abordou como os testes funcionais de GUI são produzidos na industrial brasileira de software.
 
 - 🌱 Venho me especializando em ```C#``` e ```.Net``` para atuação com desenvolvimento, principalmente ```backend```;
 - 💬 Possuo habilidades com ```C#```, ```.Net```, ```Git```, ```Azure```, ```HTML```, ```CSS```, ```POO```, ```Docker```, ```RESTFull```, ```SQL```, ```Linux```, ```AWS```, ```Scrum```, ```Kanban```, ```Levantamento de Requisitos```, ```Entrevista com Usuário``` e ```UX Design```.
